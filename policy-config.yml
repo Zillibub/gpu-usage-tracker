@@ -1,0 +1,6 @@
+version: 1
+messages:
+  2: 'GPUs are free for two hours, better do something about it'
+  4: 'Uuf, 4 hours of nothing, what a waste of time!'
+  6: 'Geez, 6 hours, a lot on money burned today'
+  8: '8 hours! Dude, are you asleep?'
